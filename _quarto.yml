@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Jane Roe"
+  title: "Jose Niño Muriel"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: projects.qmd
         text: Projects and Publications
+      - href: media/Resume_JoseNino.pdf
+        text: CV
 
 format:
   html:

@@ -1,6 +1,6 @@
 ---
-title: "Jane Roe"
-image: media/headshot.jpeg
+title: "Jose Niño Muriel"
+image: media/headshot_jose.jpg
 toc: false
 about: 
   template: jolla
